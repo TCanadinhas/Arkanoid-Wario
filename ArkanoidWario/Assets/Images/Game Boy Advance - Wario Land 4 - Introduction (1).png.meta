@@ -1,0 +1,3160 @@
+fileFormatVersion: 2
+guid: dfb141f84447d1944859acd62779398c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game Boy Advance - Wario Land 4 - Introduction (1)_3
+    21300002: Game Boy Advance - Wario Land 4 - Introduction (1)_4
+    21300004: Game Boy Advance - Wario Land 4 - Introduction (1)_5
+    21300006: Game Boy Advance - Wario Land 4 - Introduction (1)_6
+    21300008: Game Boy Advance - Wario Land 4 - Introduction (1)_7
+    21300010: Game Boy Advance - Wario Land 4 - Introduction (1)_8
+    21300012: Game Boy Advance - Wario Land 4 - Introduction (1)_9
+    21300014: Game Boy Advance - Wario Land 4 - Introduction (1)_10
+    21300016: Game Boy Advance - Wario Land 4 - Introduction (1)_11
+    21300018: Game Boy Advance - Wario Land 4 - Introduction (1)_12
+    21300020: Game Boy Advance - Wario Land 4 - Introduction (1)_13
+    21300022: Game Boy Advance - Wario Land 4 - Introduction (1)_14
+    21300024: Game Boy Advance - Wario Land 4 - Introduction (1)_15
+    21300026: Game Boy Advance - Wario Land 4 - Introduction (1)_16
+    21300028: Game Boy Advance - Wario Land 4 - Introduction (1)_17
+    21300030: Game Boy Advance - Wario Land 4 - Introduction (1)_18
+    21300032: Game Boy Advance - Wario Land 4 - Introduction (1)_19
+    21300034: Game Boy Advance - Wario Land 4 - Introduction (1)_20
+    21300036: Game Boy Advance - Wario Land 4 - Introduction (1)_21
+    21300038: Game Boy Advance - Wario Land 4 - Introduction (1)_22
+    21300040: Game Boy Advance - Wario Land 4 - Introduction (1)_23
+    21300042: Game Boy Advance - Wario Land 4 - Introduction (1)_24
+    21300044: Game Boy Advance - Wario Land 4 - Introduction (1)_25
+    21300046: Game Boy Advance - Wario Land 4 - Introduction (1)_26
+    21300048: Game Boy Advance - Wario Land 4 - Introduction (1)_27
+    21300050: Game Boy Advance - Wario Land 4 - Introduction (1)_28
+    21300052: Game Boy Advance - Wario Land 4 - Introduction (1)_29
+    21300054: Game Boy Advance - Wario Land 4 - Introduction (1)_30
+    21300056: Game Boy Advance - Wario Land 4 - Introduction (1)_31
+    21300058: Game Boy Advance - Wario Land 4 - Introduction (1)_32
+    21300060: Game Boy Advance - Wario Land 4 - Introduction (1)_33
+    21300062: Game Boy Advance - Wario Land 4 - Introduction (1)_34
+    21300064: Game Boy Advance - Wario Land 4 - Introduction (1)_35
+    21300066: Game Boy Advance - Wario Land 4 - Introduction (1)_36
+    21300068: Game Boy Advance - Wario Land 4 - Introduction (1)_37
+    21300070: Game Boy Advance - Wario Land 4 - Introduction (1)_38
+    21300072: Game Boy Advance - Wario Land 4 - Introduction (1)_39
+    21300074: Game Boy Advance - Wario Land 4 - Introduction (1)_40
+    21300076: Game Boy Advance - Wario Land 4 - Introduction (1)_41
+    21300078: Game Boy Advance - Wario Land 4 - Introduction (1)_42
+    21300080: Game Boy Advance - Wario Land 4 - Introduction (1)_43
+    21300082: Game Boy Advance - Wario Land 4 - Introduction (1)_44
+    21300084: Game Boy Advance - Wario Land 4 - Introduction (1)_45
+    21300086: Game Boy Advance - Wario Land 4 - Introduction (1)_46
+    21300088: Game Boy Advance - Wario Land 4 - Introduction (1)_47
+    21300090: Game Boy Advance - Wario Land 4 - Introduction (1)_48
+    21300092: Game Boy Advance - Wario Land 4 - Introduction (1)_49
+    21300094: Game Boy Advance - Wario Land 4 - Introduction (1)_50
+    21300096: Game Boy Advance - Wario Land 4 - Introduction (1)_51
+    21300098: Game Boy Advance - Wario Land 4 - Introduction (1)_52
+    21300100: Game Boy Advance - Wario Land 4 - Introduction (1)_53
+    21300102: Game Boy Advance - Wario Land 4 - Introduction (1)_54
+    21300104: Game Boy Advance - Wario Land 4 - Introduction (1)_55
+    21300106: Game Boy Advance - Wario Land 4 - Introduction (1)_56
+    21300108: Game Boy Advance - Wario Land 4 - Introduction (1)_57
+    21300110: Game Boy Advance - Wario Land 4 - Introduction (1)_58
+    21300112: Game Boy Advance - Wario Land 4 - Introduction (1)_59
+    21300114: Game Boy Advance - Wario Land 4 - Introduction (1)_60
+    21300116: Game Boy Advance - Wario Land 4 - Introduction (1)_61
+    21300118: Game Boy Advance - Wario Land 4 - Introduction (1)_62
+    21300120: Game Boy Advance - Wario Land 4 - Introduction (1)_63
+    21300122: Game Boy Advance - Wario Land 4 - Introduction (1)_64
+    21300124: Game Boy Advance - Wario Land 4 - Introduction (1)_65
+    21300126: Game Boy Advance - Wario Land 4 - Introduction (1)_66
+    21300128: Game Boy Advance - Wario Land 4 - Introduction (1)_67
+    21300130: Game Boy Advance - Wario Land 4 - Introduction (1)_68
+    21300132: Game Boy Advance - Wario Land 4 - Introduction (1)_69
+    21300134: Game Boy Advance - Wario Land 4 - Introduction (1)_70
+    21300136: Game Boy Advance - Wario Land 4 - Introduction (1)_71
+    21300138: Game Boy Advance - Wario Land 4 - Introduction (1)_72
+    21300140: Game Boy Advance - Wario Land 4 - Introduction (1)_73
+    21300142: Game Boy Advance - Wario Land 4 - Introduction (1)_74
+    21300144: Game Boy Advance - Wario Land 4 - Introduction (1)_75
+    21300146: Game Boy Advance - Wario Land 4 - Introduction (1)_76
+    21300148: Game Boy Advance - Wario Land 4 - Introduction (1)_77
+    21300150: Game Boy Advance - Wario Land 4 - Introduction (1)_78
+    21300152: Game Boy Advance - Wario Land 4 - Introduction (1)_79
+    21300154: Game Boy Advance - Wario Land 4 - Introduction (1)_80
+    21300156: Game Boy Advance - Wario Land 4 - Introduction (1)_81
+    21300158: Game Boy Advance - Wario Land 4 - Introduction (1)_82
+    21300160: Game Boy Advance - Wario Land 4 - Introduction (1)_83
+    21300162: Game Boy Advance - Wario Land 4 - Introduction (1)_84
+    21300164: Game Boy Advance - Wario Land 4 - Introduction (1)_85
+    21300166: Game Boy Advance - Wario Land 4 - Introduction (1)_86
+    21300168: Game Boy Advance - Wario Land 4 - Introduction (1)_87
+    21300170: Game Boy Advance - Wario Land 4 - Introduction (1)_88
+    21300172: Game Boy Advance - Wario Land 4 - Introduction (1)_89
+    21300174: Game Boy Advance - Wario Land 4 - Introduction (1)_90
+    21300176: Game Boy Advance - Wario Land 4 - Introduction (1)_91
+    21300178: Game Boy Advance - Wario Land 4 - Introduction (1)_92
+    21300180: Game Boy Advance - Wario Land 4 - Introduction (1)_93
+    21300182: Game Boy Advance - Wario Land 4 - Introduction (1)_94
+    21300184: Game Boy Advance - Wario Land 4 - Introduction (1)_95
+    21300186: Game Boy Advance - Wario Land 4 - Introduction (1)_96
+    21300188: Game Boy Advance - Wario Land 4 - Introduction (1)_97
+    21300190: Game Boy Advance - Wario Land 4 - Introduction (1)_98
+    21300192: Game Boy Advance - Wario Land 4 - Introduction (1)_99
+    21300194: Game Boy Advance - Wario Land 4 - Introduction (1)_100
+    21300196: Game Boy Advance - Wario Land 4 - Introduction (1)_101
+    21300198: Game Boy Advance - Wario Land 4 - Introduction (1)_102
+    21300200: Game Boy Advance - Wario Land 4 - Introduction (1)_103
+    21300202: Game Boy Advance - Wario Land 4 - Introduction (1)_104
+    21300204: Game Boy Advance - Wario Land 4 - Introduction (1)_105
+    21300206: Game Boy Advance - Wario Land 4 - Introduction (1)_106
+    21300208: Game Boy Advance - Wario Land 4 - Introduction (1)_107
+    21300210: Game Boy Advance - Wario Land 4 - Introduction (1)_108
+    21300212: Game Boy Advance - Wario Land 4 - Introduction (1)_109
+    21300214: Game Boy Advance - Wario Land 4 - Introduction (1)_110
+    21300216: Game Boy Advance - Wario Land 4 - Introduction (1)_111
+    21300218: Game Boy Advance - Wario Land 4 - Introduction (1)_112
+    21300220: Game Boy Advance - Wario Land 4 - Introduction (1)_113
+    21300222: Game Boy Advance - Wario Land 4 - Introduction (1)_114
+    21300224: Game Boy Advance - Wario Land 4 - Introduction (1)_115
+    21300226: Game Boy Advance - Wario Land 4 - Introduction (1)_116
+    21300228: Game Boy Advance - Wario Land 4 - Introduction (1)_117
+    21300230: Game Boy Advance - Wario Land 4 - Introduction (1)_118
+    21300232: Game Boy Advance - Wario Land 4 - Introduction (1)_119
+    21300234: Game Boy Advance - Wario Land 4 - Introduction (1)_120
+    21300236: Game Boy Advance - Wario Land 4 - Introduction (1)_121
+    21300238: Game Boy Advance - Wario Land 4 - Introduction (1)_122
+    21300240: Game Boy Advance - Wario Land 4 - Introduction (1)_123
+    21300242: Game Boy Advance - Wario Land 4 - Introduction (1)_124
+    21300244: Game Boy Advance - Wario Land 4 - Introduction (1)_125
+    21300246: Game Boy Advance - Wario Land 4 - Introduction (1)_126
+    21300248: Game Boy Advance - Wario Land 4 - Introduction (1)_127
+    21300250: Game Boy Advance - Wario Land 4 - Introduction (1)_128
+    21300252: Game Boy Advance - Wario Land 4 - Introduction (1)_129
+    21300254: Game Boy Advance - Wario Land 4 - Introduction (1)_130
+    21300256: Game Boy Advance - Wario Land 4 - Introduction (1)_131
+    21300258: Game Boy Advance - Wario Land 4 - Introduction (1)_132
+    21300260: Game Boy Advance - Wario Land 4 - Introduction (1)_133
+    21300262: Game Boy Advance - Wario Land 4 - Introduction (1)_134
+    21300264: Game Boy Advance - Wario Land 4 - Introduction (1)_135
+    21300266: Game Boy Advance - Wario Land 4 - Introduction (1)_136
+    21300268: Game Boy Advance - Wario Land 4 - Introduction (1)_137
+    21300270: Game Boy Advance - Wario Land 4 - Introduction (1)_138
+    21300272: Game Boy Advance - Wario Land 4 - Introduction (1)_139
+    21300274: Game Boy Advance - Wario Land 4 - Introduction (1)_140
+    21300276: Game Boy Advance - Wario Land 4 - Introduction (1)_141
+    21300278: Game Boy Advance - Wario Land 4 - Introduction (1)_142
+    21300280: Game Boy Advance - Wario Land 4 - Introduction (1)_143
+    21300282: Game Boy Advance - Wario Land 4 - Introduction (1)_144
+    21300284: Game Boy Advance - Wario Land 4 - Introduction (1)_145
+    21300286: Game Boy Advance - Wario Land 4 - Introduction (1)_146
+    21300288: Game Boy Advance - Wario Land 4 - Introduction (1)_147
+    21300290: Game Boy Advance - Wario Land 4 - Introduction (1)_148
+    21300292: Game Boy Advance - Wario Land 4 - Introduction (1)_149
+    21300294: Game Boy Advance - Wario Land 4 - Introduction (1)_150
+    21300296: Game Boy Advance - Wario Land 4 - Introduction (1)_151
+    21300298: Game Boy Advance - Wario Land 4 - Introduction (1)_152
+    21300300: Game Boy Advance - Wario Land 4 - Introduction (1)_153
+    21300302: Game Boy Advance - Wario Land 4 - Introduction (1)_154
+    21300304: Game Boy Advance - Wario Land 4 - Introduction (1)_155
+    21300306: Game Boy Advance - Wario Land 4 - Introduction (1)_156
+    21300308: Game Boy Advance - Wario Land 4 - Introduction (1)_157
+    21300310: Game Boy Advance - Wario Land 4 - Introduction (1)_158
+    21300312: Game Boy Advance - Wario Land 4 - Introduction (1)_159
+    21300314: Game Boy Advance - Wario Land 4 - Introduction (1)_160
+    21300316: Game Boy Advance - Wario Land 4 - Introduction (1)_161
+    21300318: Game Boy Advance - Wario Land 4 - Introduction (1)_162
+    21300320: Game Boy Advance - Wario Land 4 - Introduction (1)_163
+    21300322: Game Boy Advance - Wario Land 4 - Introduction (1)_164
+    21300324: Game Boy Advance - Wario Land 4 - Introduction (1)_165
+    21300326: Game Boy Advance - Wario Land 4 - Introduction (1)_166
+    21300328: Game Boy Advance - Wario Land 4 - Introduction (1)_167
+    21300330: Game Boy Advance - Wario Land 4 - Introduction (1)_168
+    21300332: Game Boy Advance - Wario Land 4 - Introduction (1)_169
+    21300334: Game Boy Advance - Wario Land 4 - Introduction (1)_170
+    21300336: Game Boy Advance - Wario Land 4 - Introduction (1)_171
+    21300338: Game Boy Advance - Wario Land 4 - Introduction (1)_172
+    21300340: Game Boy Advance - Wario Land 4 - Introduction (1)_173
+    21300342: Game Boy Advance - Wario Land 4 - Introduction (1)_174
+    21300344: Game Boy Advance - Wario Land 4 - Introduction (1)_175
+    21300346: Game Boy Advance - Wario Land 4 - Introduction (1)_180
+    21300348: Game Boy Advance - Wario Land 4 - Introduction (1)_181
+    21300350: Game Boy Advance - Wario Land 4 - Introduction (1)_182
+    21300352: Game Boy Advance - Wario Land 4 - Introduction (1)_183
+    21300354: Game Boy Advance - Wario Land 4 - Introduction (1)_184
+    21300356: Game Boy Advance - Wario Land 4 - Introduction (1)_188
+    21300358: Game Boy Advance - Wario Land 4 - Introduction (1)_189
+    21300360: Game Boy Advance - Wario Land 4 - Introduction (1)_190
+    21300362: Game Boy Advance - Wario Land 4 - Introduction (1)_191
+    21300364: Game Boy Advance - Wario Land 4 - Introduction (1)_192
+    21300366: Game Boy Advance - Wario Land 4 - Introduction (1)_193
+    21300368: Game Boy Advance - Wario Land 4 - Introduction (1)_198
+    21300370: Game Boy Advance - Wario Land 4 - Introduction (1)_199
+    21300372: Game Boy Advance - Wario Land 4 - Introduction (1)_200
+    21300374: Game Boy Advance - Wario Land 4 - Introduction (1)_201
+    21300376: Game Boy Advance - Wario Land 4 - Introduction (1)_202
+    21300378: Game Boy Advance - Wario Land 4 - Introduction (1)_203
+    21300380: Game Boy Advance - Wario Land 4 - Introduction (1)_204
+    21300382: Game Boy Advance - Wario Land 4 - Introduction (1)_205
+    21300384: Game Boy Advance - Wario Land 4 - Introduction (1)_206
+    21300386: Game Boy Advance - Wario Land 4 - Introduction (1)_207
+    21300388: Game Boy Advance - Wario Land 4 - Introduction (1)_208
+    21300390: Game Boy Advance - Wario Land 4 - Introduction (1)_209
+    21300392: Game Boy Advance - Wario Land 4 - Introduction (1)_210
+    21300394: Game Boy Advance - Wario Land 4 - Introduction (1)_211
+    21300396: Game Boy Advance - Wario Land 4 - Introduction (1)_212
+    21300398: Game Boy Advance - Wario Land 4 - Introduction (1)_213
+    21300400: Game Boy Advance - Wario Land 4 - Introduction (1)_214
+    21300402: Game Boy Advance - Wario Land 4 - Introduction (1)_215
+    21300404: Game Boy Advance - Wario Land 4 - Introduction (1)_216
+    21300406: Game Boy Advance - Wario Land 4 - Introduction (1)_217
+    21300408: Game Boy Advance - Wario Land 4 - Introduction (1)_218
+    21300410: Game Boy Advance - Wario Land 4 - Introduction (1)_219
+    21300412: Game Boy Advance - Wario Land 4 - Introduction (1)_220
+    21300414: Game Boy Advance - Wario Land 4 - Introduction (1)_221
+    21300416: Game Boy Advance - Wario Land 4 - Introduction (1)_222
+    21300418: Game Boy Advance - Wario Land 4 - Introduction (1)_223
+    21300420: Game Boy Advance - Wario Land 4 - Introduction (1)_224
+    21300422: Game Boy Advance - Wario Land 4 - Introduction (1)_225
+    21300424: Game Boy Advance - Wario Land 4 - Introduction (1)_226
+    21300426: Game Boy Advance - Wario Land 4 - Introduction (1)_227
+    21300428: Game Boy Advance - Wario Land 4 - Introduction (1)_228
+    21300430: Game Boy Advance - Wario Land 4 - Introduction (1)_229
+    21300432: Game Boy Advance - Wario Land 4 - Introduction (1)_230
+    21300434: Game Boy Advance - Wario Land 4 - Introduction (1)_231
+    21300436: Game Boy Advance - Wario Land 4 - Introduction (1)_232
+    21300438: Game Boy Advance - Wario Land 4 - Introduction (1)_233
+    21300440: Game Boy Advance - Wario Land 4 - Introduction (1)_234
+    21300442: Game Boy Advance - Wario Land 4 - Introduction (1)_235
+    21300444: Game Boy Advance - Wario Land 4 - Introduction (1)_236
+    21300446: Game Boy Advance - Wario Land 4 - Introduction (1)_237
+    21300448: Game Boy Advance - Wario Land 4 - Introduction (1)_238
+    21300450: Game Boy Advance - Wario Land 4 - Introduction (1)_239
+    21300452: Game Boy Advance - Wario Land 4 - Introduction (1)_240
+    21300454: Game Boy Advance - Wario Land 4 - Introduction (1)_241
+    21300456: Game Boy Advance - Wario Land 4 - Introduction (1)_242
+    21300458: Game Boy Advance - Wario Land 4 - Introduction (1)_243
+    21300460: Game Boy Advance - Wario Land 4 - Introduction (1)_244
+    21300462: Game Boy Advance - Wario Land 4 - Introduction (1)_245
+    21300464: Game Boy Advance - Wario Land 4 - Introduction (1)_246
+    21300466: Game Boy Advance - Wario Land 4 - Introduction (1)_247
+    21300468: Game Boy Advance - Wario Land 4 - Introduction (1)_248
+    21300470: Game Boy Advance - Wario Land 4 - Introduction (1)_249
+    21300472: Game Boy Advance - Wario Land 4 - Introduction (1)_250
+    21300474: Game Boy Advance - Wario Land 4 - Introduction (1)_251
+    21300476: Game Boy Advance - Wario Land 4 - Introduction (1)_252
+    21300478: Game Boy Advance - Wario Land 4 - Introduction (1)_253
+    21300480: Game Boy Advance - Wario Land 4 - Introduction (1)_254
+    21300482: Game Boy Advance - Wario Land 4 - Introduction (1)_255
+    21300484: Game Boy Advance - Wario Land 4 - Introduction (1)_256
+    21300486: Game Boy Advance - Wario Land 4 - Introduction (1)_257
+    21300488: Game Boy Advance - Wario Land 4 - Introduction (1)_258
+    21300490: Game Boy Advance - Wario Land 4 - Introduction (1)_259
+    21300492: Game Boy Advance - Wario Land 4 - Introduction (1)_260
+    21300494: Game Boy Advance - Wario Land 4 - Introduction (1)_261
+    21300496: Game Boy Advance - Wario Land 4 - Introduction (1)_262
+    21300498: Game Boy Advance - Wario Land 4 - Introduction (1)_263
+    21300500: Game Boy Advance - Wario Land 4 - Introduction (1)_264
+    21300502: Game Boy Advance - Wario Land 4 - Introduction (1)_265
+    21300504: Game Boy Advance - Wario Land 4 - Introduction (1)_266
+    21300506: Game Boy Advance - Wario Land 4 - Introduction (1)_267
+    21300508: Game Boy Advance - Wario Land 4 - Introduction (1)_268
+    21300510: Game Boy Advance - Wario Land 4 - Introduction (1)_269
+    21300512: Game Boy Advance - Wario Land 4 - Introduction (1)_270
+    21300514: Game Boy Advance - Wario Land 4 - Introduction (1)_271
+    21300516: Game Boy Advance - Wario Land 4 - Introduction (1)_272
+    21300518: Game Boy Advance - Wario Land 4 - Introduction (1)_273
+    21300520: Game Boy Advance - Wario Land 4 - Introduction (1)_274
+    21300522: Game Boy Advance - Wario Land 4 - Introduction (1)_275
+    21300524: Game Boy Advance - Wario Land 4 - Introduction (1)_276
+    21300526: Game Boy Advance - Wario Land 4 - Introduction (1)_277
+    21300528: Game Boy Advance - Wario Land 4 - Introduction (1)_278
+    21300530: Game Boy Advance - Wario Land 4 - Introduction (1)_279
+    21300532: Game Boy Advance - Wario Land 4 - Introduction (1)_280
+    21300534: Game Boy Advance - Wario Land 4 - Introduction (1)_281
+    21300536: Game Boy Advance - Wario Land 4 - Introduction (1)_282
+    21300538: Game Boy Advance - Wario Land 4 - Introduction (1)_283
+    21300540: Game Boy Advance - Wario Land 4 - Introduction (1)_284
+    21300542: Game Boy Advance - Wario Land 4 - Introduction (1)_285
+    21300544: Game Boy Advance - Wario Land 4 - Introduction (1)_286
+    21300546: Game Boy Advance - Wario Land 4 - Introduction (1)_287
+    21300548: Game Boy Advance - Wario Land 4 - Introduction (1)_288
+    21300550: Game Boy Advance - Wario Land 4 - Introduction (1)_289
+    21300552: Game Boy Advance - Wario Land 4 - Introduction (1)_290
+    21300554: Game Boy Advance - Wario Land 4 - Introduction (1)_291
+    21300556: Game Boy Advance - Wario Land 4 - Introduction (1)_292
+    21300558: Game Boy Advance - Wario Land 4 - Introduction (1)_293
+    21300560: Game Boy Advance - Wario Land 4 - Introduction (1)_294
+    21300562: Game Boy Advance - Wario Land 4 - Introduction (1)_295
+    21300564: Game Boy Advance - Wario Land 4 - Introduction (1)_296
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 328, y: 794, z: 0, w: 1212}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2109
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2109
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2109
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2109
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2109
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2109
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2045
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2045
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2045
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2045
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2045
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2045
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2045
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2045
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2045
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1981
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1981
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1981
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1981
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1981
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1981
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1981
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1981
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1981
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1917
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1917
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1917
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1917
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1917
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1917
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1917
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1917
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1917
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1853
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1853
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1853
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1853
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1853
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1853
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1853
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1853
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1853
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1789
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1789
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1789
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1789
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1789
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1789
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1789
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1789
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1789
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1725
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1725
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1725
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1725
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1725
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1725
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1725
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_61
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1725
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_62
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1725
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1661
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1661
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1661
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1661
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1661
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1661
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1661
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1661
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_71
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1661
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1597
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1597
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1597
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1597
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1597
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_77
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1597
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1597
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_79
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1597
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_80
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1597
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1533
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1533
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1533
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1533
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1533
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_86
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1533
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1533
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_88
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1533
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_89
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1533
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1469
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_91
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1469
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1469
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1469
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_94
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1469
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_95
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1469
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1469
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_97
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1469
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_98
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1469
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1405
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1405
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_101
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1405
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1405
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_103
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1405
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_104
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1405
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_105
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1405
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_106
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1405
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_107
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1405
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1341
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1341
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1341
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1341
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1341
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1341
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_114
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1341
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_115
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1341
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1341
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1277
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_118
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1277
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_119
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1277
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_120
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1277
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_121
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1277
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1277
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_123
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1277
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_124
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1277
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_125
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1277
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1213
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_127
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1213
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_128
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1213
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_129
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1213
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_130
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1213
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_131
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1213
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_132
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1213
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_133
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1213
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_134
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1213
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1149
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_136
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1149
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_137
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1149
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_138
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1149
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_139
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1149
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_140
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1149
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_141
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1149
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1149
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_143
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1149
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1085
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1085
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_146
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1085
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1085
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1085
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_149
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1085
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_150
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1085
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_151
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1085
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_152
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1085
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1021
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_154
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1021
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_155
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1021
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_156
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1021
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_157
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1021
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_158
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1021
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_159
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1021
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_160
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1021
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_161
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1021
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 957
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_163
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 957
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 957
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_165
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 957
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_166
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 957
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_167
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 957
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_168
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 957
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_169
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 957
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_170
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 957
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 893
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_172
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 893
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_173
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 893
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_174
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 893
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_175
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 893
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 829
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_181
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 829
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_182
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 829
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_183
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 829
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 829
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_188
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 805
+        width: 240
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 765
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_190
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 765
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_191
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 765
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_192
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 765
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_193
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 765
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 701
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_199
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 701
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_200
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 701
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_201
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 701
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_202
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 701
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_203
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 701
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_204
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 701
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_205
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 701
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_206
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 701
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 637
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_208
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 637
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_209
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 637
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_210
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 637
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_211
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 637
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_212
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 637
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_213
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 637
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_214
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 637
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_215
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 637
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 573
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_217
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 573
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_218
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 573
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_219
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 573
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_220
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 573
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_221
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 573
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_222
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 573
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_223
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 573
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_224
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 573
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 509
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_226
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 509
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_227
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 509
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_228
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 509
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_229
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 509
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_230
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 509
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_231
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 509
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_232
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 509
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_233
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 509
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_234
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 445
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_235
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 445
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_236
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 445
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_237
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 445
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_238
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 445
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_239
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 445
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_240
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 445
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_241
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 445
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_242
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 445
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_243
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 381
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_244
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 381
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_245
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 381
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_246
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 381
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_247
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 381
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_248
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 381
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_249
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 381
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_250
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 381
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_251
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 381
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 317
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_253
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 317
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_254
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 317
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_255
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 317
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_256
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 317
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_257
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 317
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_258
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 317
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_259
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 317
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_260
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 317
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_261
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_262
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 253
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_263
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 253
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_264
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 253
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_265
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 253
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_266
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 253
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_267
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 253
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_268
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 253
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_269
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 253
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_270
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_271
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 189
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_272
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 189
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_273
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 189
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_274
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 189
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_275
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 189
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_276
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 189
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_277
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 189
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_278
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 189
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_279
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_280
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 125
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_281
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 125
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_282
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 125
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_283
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 125
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_284
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 125
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_285
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 125
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_286
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 125
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_287
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 125
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_288
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_289
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 61
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_290
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 61
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_291
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 61
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_292
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 61
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_293
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 61
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_294
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 61
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_295
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 61
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Introduction (1)_296
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 61
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

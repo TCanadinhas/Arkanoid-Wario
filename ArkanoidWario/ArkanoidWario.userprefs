@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Wario.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Wario.cs" Line="14" Column="35" />
+      <File FileName="..\..\..\..\Desktop\Projetos\Passarim\Assets\scripts\PassarimNegro.cs" Line="12" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
