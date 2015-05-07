@@ -1,8 +1,15 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Wario.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Platform.cs">
     <Files>
-      <File FileName="Assets\Scripts\Wario.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WarioRun.cs" Line="24" Column="6" />
+      <File FileName="Assets\Scripts\Wario.cs" Line="30" Column="4" />
+      <File FileName="..\..\..\..\Desktop\Projetos\Passarim\Assets\scripts\GerenciadorDeInimigos.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Line1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Line2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Line3.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\Desktop\Dragon_Ballv1.2\Assets\movimentation.cs" Line="29" Column="67" />
+      <File FileName="Assets\Scripts\Platform.cs" Line="6" Column="17" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

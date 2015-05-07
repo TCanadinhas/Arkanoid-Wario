@@ -46,7 +46,12 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Line1.cs" />
+     <Compile Include="Assets\Scripts\Line2.cs" />
+     <Compile Include="Assets\Scripts\Line3.cs" />
+     <Compile Include="Assets\Scripts\Platform.cs" />
      <Compile Include="Assets\Scripts\Wario.cs" />
+     <Compile Include="Assets\Scripts\WarioRun.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Users/Matheus/Desktop/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.2/UnityEngine.UI.dll</HintPath>
  </Reference>

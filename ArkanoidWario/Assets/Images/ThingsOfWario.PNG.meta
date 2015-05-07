@@ -1,0 +1,2082 @@
+fileFormatVersion: 2
+guid: 1a5fe7992d45d1f4882bd1a332690f5d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ThingsOfWario_0
+    21300002: ThingsOfWario_1
+    21300004: ThingsOfWario_2
+    21300006: ThingsOfWario_3
+    21300008: ThingsOfWario_4
+    21300010: ThingsOfWario_5
+    21300012: ThingsOfWario_6
+    21300014: ThingsOfWario_7
+    21300016: ThingsOfWario_8
+    21300018: ThingsOfWario_9
+    21300020: ThingsOfWario_10
+    21300022: ThingsOfWario_11
+    21300024: ThingsOfWario_12
+    21300026: ThingsOfWario_13
+    21300028: ThingsOfWario_14
+    21300030: ThingsOfWario_15
+    21300032: ThingsOfWario_16
+    21300034: ThingsOfWario_17
+    21300036: ThingsOfWario_18
+    21300038: ThingsOfWario_19
+    21300040: ThingsOfWario_20
+    21300042: ThingsOfWario_21
+    21300044: ThingsOfWario_22
+    21300046: ThingsOfWario_23
+    21300048: ThingsOfWario_24
+    21300050: ThingsOfWario_25
+    21300052: ThingsOfWario_26
+    21300054: ThingsOfWario_27
+    21300056: ThingsOfWario_28
+    21300058: ThingsOfWario_29
+    21300060: ThingsOfWario_30
+    21300062: ThingsOfWario_31
+    21300064: ThingsOfWario_32
+    21300066: ThingsOfWario_33
+    21300068: ThingsOfWario_34
+    21300070: ThingsOfWario_35
+    21300072: ThingsOfWario_36
+    21300074: ThingsOfWario_37
+    21300076: ThingsOfWario_38
+    21300078: ThingsOfWario_39
+    21300080: ThingsOfWario_40
+    21300082: ThingsOfWario_41
+    21300084: ThingsOfWario_42
+    21300086: ThingsOfWario_43
+    21300088: ThingsOfWario_44
+    21300090: ThingsOfWario_45
+    21300092: ThingsOfWario_46
+    21300094: ThingsOfWario_47
+    21300096: ThingsOfWario_48
+    21300098: ThingsOfWario_49
+    21300100: ThingsOfWario_50
+    21300102: ThingsOfWario_51
+    21300104: ThingsOfWario_52
+    21300106: ThingsOfWario_53
+    21300108: ThingsOfWario_54
+    21300110: ThingsOfWario_55
+    21300112: ThingsOfWario_56
+    21300114: ThingsOfWario_57
+    21300116: ThingsOfWario_58
+    21300118: ThingsOfWario_59
+    21300120: ThingsOfWario_60
+    21300122: ThingsOfWario_61
+    21300124: ThingsOfWario_62
+    21300126: ThingsOfWario_63
+    21300128: ThingsOfWario_64
+    21300130: ThingsOfWario_65
+    21300132: ThingsOfWario_66
+    21300134: ThingsOfWario_67
+    21300136: ThingsOfWario_68
+    21300138: ThingsOfWario_69
+    21300140: ThingsOfWario_70
+    21300142: ThingsOfWario_71
+    21300144: ThingsOfWario_72
+    21300146: ThingsOfWario_73
+    21300148: ThingsOfWario_74
+    21300150: ThingsOfWario_75
+    21300152: ThingsOfWario_76
+    21300154: ThingsOfWario_77
+    21300156: ThingsOfWario_78
+    21300158: ThingsOfWario_79
+    21300160: ThingsOfWario_80
+    21300162: ThingsOfWario_81
+    21300164: ThingsOfWario_82
+    21300166: ThingsOfWario_83
+    21300168: ThingsOfWario_84
+    21300170: ThingsOfWario_85
+    21300172: ThingsOfWario_86
+    21300174: ThingsOfWario_87
+    21300176: ThingsOfWario_88
+    21300178: ThingsOfWario_89
+    21300180: ThingsOfWario_90
+    21300182: ThingsOfWario_91
+    21300184: ThingsOfWario_92
+    21300186: ThingsOfWario_93
+    21300188: ThingsOfWario_94
+    21300190: ThingsOfWario_95
+    21300192: ThingsOfWario_96
+    21300194: ThingsOfWario_97
+    21300196: ThingsOfWario_98
+    21300198: ThingsOfWario_99
+    21300200: ThingsOfWario_100
+    21300202: ThingsOfWario_101
+    21300204: ThingsOfWario_102
+    21300206: ThingsOfWario_103
+    21300208: ThingsOfWario_104
+    21300210: ThingsOfWario_105
+    21300212: ThingsOfWario_106
+    21300214: ThingsOfWario_107
+    21300216: ThingsOfWario_108
+    21300218: ThingsOfWario_109
+    21300220: ThingsOfWario_110
+    21300222: ThingsOfWario_111
+    21300224: ThingsOfWario_112
+    21300226: ThingsOfWario_113
+    21300228: ThingsOfWario_114
+    21300230: ThingsOfWario_115
+    21300232: ThingsOfWario_116
+    21300234: ThingsOfWario_117
+    21300236: ThingsOfWario_118
+    21300238: ThingsOfWario_119
+    21300240: ThingsOfWario_120
+    21300242: ThingsOfWario_121
+    21300244: ThingsOfWario_122
+    21300246: ThingsOfWario_123
+    21300248: ThingsOfWario_124
+    21300250: ThingsOfWario_125
+    21300252: ThingsOfWario_126
+    21300254: ThingsOfWario_127
+    21300256: ThingsOfWario_128
+    21300258: ThingsOfWario_129
+    21300260: ThingsOfWario_130
+    21300262: ThingsOfWario_131
+    21300264: ThingsOfWario_132
+    21300266: ThingsOfWario_133
+    21300268: ThingsOfWario_134
+    21300270: ThingsOfWario_135
+    21300272: ThingsOfWario_136
+    21300274: ThingsOfWario_137
+    21300276: ThingsOfWario_138
+    21300278: ThingsOfWario_139
+    21300280: ThingsOfWario_140
+    21300282: ThingsOfWario_141
+    21300284: ThingsOfWario_142
+    21300286: ThingsOfWario_143
+    21300288: ThingsOfWario_144
+    21300290: ThingsOfWario_145
+    21300292: ThingsOfWario_146
+    21300294: ThingsOfWario_147
+    21300296: ThingsOfWario_148
+    21300298: ThingsOfWario_149
+    21300300: ThingsOfWario_150
+    21300302: ThingsOfWario_151
+    21300304: ThingsOfWario_152
+    21300306: ThingsOfWario_153
+    21300308: ThingsOfWario_154
+    21300310: ThingsOfWario_155
+    21300312: ThingsOfWario_156
+    21300314: ThingsOfWario_157
+    21300316: ThingsOfWario_158
+    21300318: ThingsOfWario_159
+    21300320: ThingsOfWario_160
+    21300322: ThingsOfWario_161
+    21300324: ThingsOfWario_162
+    21300326: ThingsOfWario_163
+    21300328: ThingsOfWario_164
+    21300330: ThingsOfWario_165
+    21300332: ThingsOfWario_166
+    21300334: ThingsOfWario_167
+    21300336: ThingsOfWario_168
+    21300338: ThingsOfWario_169
+    21300340: ThingsOfWario_170
+    21300342: ThingsOfWario_171
+    21300344: ThingsOfWario_172
+    21300346: ThingsOfWario_173
+    21300348: ThingsOfWario_174
+    21300350: ThingsOfWario_175
+    21300352: ThingsOfWario_176
+    21300354: ThingsOfWario_177
+    21300356: ThingsOfWario_178
+    21300358: ThingsOfWario_179
+    21300360: ThingsOfWario_180
+    21300362: ThingsOfWario_181
+    21300364: ThingsOfWario_182
+    21300366: ThingsOfWario_183
+    21300368: ThingsOfWario_184
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ThingsOfWario_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 462
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 462
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 462
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 437
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 437
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 420
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 420
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 449
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 449
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 436
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 436
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_11
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 436
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_12
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 436
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_13
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 436
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_14
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 317
+        width: 16
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_15
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 340
+        width: 16
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_16
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 357
+        width: 16
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_17
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 357
+        width: 16
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_18
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 413
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_19
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 415
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_20
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 441
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 442
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 442
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_23
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 442
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_24
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 424
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_25
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 424
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 420
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 420
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_28
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 396
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_29
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 396
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 396
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_31
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 396
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_32
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 396
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_33
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 408
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_34
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 383
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_35
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 383
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_36
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 383
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_37
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 383
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 386
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_39
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 390
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_40
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 386
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_41
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_42
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 386
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_43
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 353
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_44
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_45
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_46
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_49
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 362
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_50
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 362
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_51
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_52
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_53
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 356
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_54
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 347
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_55
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 357
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_56
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 334
+        width: 133
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_57
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_58
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 356
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 356
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_60
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 356
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_61
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 356
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 323
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_63
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 327
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_64
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 326
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_65
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 326
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_66
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 326
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_67
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 320
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_68
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 328
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_69
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 316
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 316
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_71
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 316
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_72
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 316
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_73
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 276
+        width: 16
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_74
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 317
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_75
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 317
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_76
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 301
+        width: 112
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_77
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 331
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_78
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 301
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_79
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_80
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 301
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_81
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_82
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 297
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 297
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_84
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 310
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_85
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 310
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_86
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 310
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_87
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 164
+        width: 63
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_88
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 164
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_89
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 164
+        width: 62
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_90
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_91
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_92
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_93
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 277
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_94
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 276
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_95
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_96
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_97
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 249
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_98
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_99
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 275
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_100
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_101
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 213
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_102
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 210
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_103
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 218
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_104
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 239
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_105
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 221
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_106
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 213
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_107
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 237
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_108
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_109
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_110
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 224
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_111
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 223
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_112
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 207
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_113
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 236
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_114
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 221
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_115
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 167
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_116
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 197
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_117
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 202
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_118
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 202
+        width: 45
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_119
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 152
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_120
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 168
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_121
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 168
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_122
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 178
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_123
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 161
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_124
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 133
+        width: 16
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_125
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 133
+        width: 16
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_126
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 156
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_127
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_128
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_129
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 120
+        width: 90
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_130
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 166
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_131
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 157
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_132
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 112
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_133
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 112
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_134
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 48
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_135
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 48
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_136
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_137
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 5
+        width: 63
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_138
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_139
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 120
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_140
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 142
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_141
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_142
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 79
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_143
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_144
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 88
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_145
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 87
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_146
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 104
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_147
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_148
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 12
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_149
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 94
+        width: 62
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_150
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 6
+        width: 16
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_151
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 77
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_152
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 62
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_153
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 62
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_154
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 84
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_155
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 80
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_156
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 74
+        width: 62
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_157
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 64
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_158
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_159
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 13
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_160
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 7
+        width: 22
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_161
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 39
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_162
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_163
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 44
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_164
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 44
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_165
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 44
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_166
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 44
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_167
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 44
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_168
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_169
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 27
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_170
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 44
+        width: 46
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_171
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 10
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_172
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 13
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_173
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 24
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_174
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_175
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_176
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_177
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_178
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_179
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_180
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_181
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_182
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 4
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_183
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ThingsOfWario_184
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 4
+        width: 54
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -62,10 +62,10 @@ TextureImporter:
     - name: Bolha_Wario_0
       rect:
         serializedVersion: 2
-        x: 364
-        y: 11
+        x: 333
+        y: 14
         width: 30
-        height: 33
+        height: 30
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,9 +162,9 @@ TextureImporter:
     - name: Bolha_Wario_10
       rect:
         serializedVersion: 2
-        x: 333
+        x: 365
         y: 12
-        width: 28
+        width: 30
         height: 32
       alignment: 0
       pivot: {x: .5, y: .5}

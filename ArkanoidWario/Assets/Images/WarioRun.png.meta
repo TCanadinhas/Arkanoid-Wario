@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 5be6f3c74ce04a244b3cd6541a79c08b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WarioRun_0
+    21300002: WarioRun_1
+    21300004: WarioRun_2
+    21300006: WarioRun_3
+    21300008: WarioRun_4
+    21300010: WarioRun_5
+    21300012: WarioRun_6
+    21300014: WarioRun_7
+    21300016: WarioRun_8
+    21300018: WarioRun_9
+    21300020: WarioRun_10
+    21300022: WarioRun_11
+    21300024: WarioRun_12
+    21300026: WarioRun_13
+    21300028: WarioRun_14
+    21300030: WarioRun_15
+    21300032: WarioRun_16
+    21300034: WarioRun_17
+    21300036: WarioRun_18
+    21300038: WarioRun_19
+    21300040: WarioRun_20
+    21300042: WarioRun_21
+    21300044: WarioRun_22
+    21300046: WarioRun_23
+    21300048: WarioRun_24
+    21300050: WarioRun_25
+    21300052: WarioRun_26
+    21300054: WarioRun_27
+    21300056: WarioRun_28
+    21300058: WarioRun_29
+    21300060: WarioRun_30
+    21300062: WarioRun_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WarioRun_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 135
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 135
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 135
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 135
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 135
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 135
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 135
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 135
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 135
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 135
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 92
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 92
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 92
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 91
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 91
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_15
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 91
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 91
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 49
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 49
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 49
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_20
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 49
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_21
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 49
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_22
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 49
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_23
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 49
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_24
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 49
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 7
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_27
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 7
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_28
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 7
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_29
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 7
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_30
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 7
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WarioRun_31
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 7
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

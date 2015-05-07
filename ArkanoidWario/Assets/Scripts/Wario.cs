@@ -25,9 +25,8 @@ public class Wario : MonoBehaviour {
 	// Update is called once per frame
 	void Update () 
 	{
-		if (!collided) 
-		{
-			transform.position += new Vector3 (-0.06f, -0.06f, 0);
-		}
+		collider2D.enabled = false;
+		gameObject.GetComponent<Animator> ().enabled = false;
+
 	}
 }
